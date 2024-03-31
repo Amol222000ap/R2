@@ -1,2 +1,2 @@
-practices file
-changes on online Repository
+Push Changes: Uploads local repository content to a remote repository. 
+modified file 
