@@ -1,2 +1,5 @@
 Push Changes: Uploads local repository content to a remote repository. 
 modified file 
+Online Changes
+Pull Changes: Fetches and merges changes from a remote repository to your local 
+repository. 
